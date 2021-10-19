@@ -1,0 +1,1 @@
+(function(){var loadHandler=window['sl_{BD122281-0010-4234-90DE-061616745FCB}'];loadHandler&&loadHandler(0, '<div id="spr0_932724"><div id="spr1_932724" class="kern slide"><img id="img0_932724" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_932724" class="kern slide"></div></div>', '{"s":[]}');})();
